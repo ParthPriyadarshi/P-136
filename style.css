@@ -1,0 +1,10 @@
+body {
+    background-image: url("background-image.webp");
+}
+.canvas {
+    background-color: aliceblue;
+    border-color: black;
+    box-shadow: black 12px;
+    padding: 0;
+    margin: 0;
+}
